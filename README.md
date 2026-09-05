@@ -119,7 +119,7 @@
             padding: 10px;
             border-radius: 5px;
             border: 1px solid #444;
-            background-color: #2a2a2a;
+            background-color: #2a2a2a.;
             color: #fff;
             font-size: 14px;
         }
